@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am
+
+- 🔭 I’m currently working on studying in school
+- 🌱 I’m currently learning python, js, css and html
+- 👯 I’m looking to collaborate on linux on mac projects and so much more
+- 🤔 I’m looking for help with studying
+- 💬 Ask me about anything
+- 📫 How to reach me: rash00di@icloud.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am living in Bahrain
