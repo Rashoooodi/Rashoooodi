@@ -21,6 +21,6 @@ I am
 - 👯 I’m looking to collaborate on linux on mac projects and so much more
 - 🤔 I’m looking for help with studying
 - 💬 Ask me about anything
-- 📫 How to reach me: rash00di@icloud.com
+- 📫 How to reach me: rashoodi@realism.lol
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am living in Bahrain
