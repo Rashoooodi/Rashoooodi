@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 I am
 
-- 🔭 I’m currently working on studying in school
-- 🌱 I’m currently learning python, js, css and html
+- 🔭 I’m currently working on a python script that can turn bank statement PDF's to csv's for apps like Bluecoins and Cashew
+- 🌱 I’m currently learning Python, JS, HTML and CSS
 - 👯 I’m looking to collaborate on linux on mac projects and so much more
 - 🤔 I’m looking for help with studying
 - 💬 Ask me about anything
