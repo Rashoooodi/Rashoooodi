@@ -1,26 +1,12 @@
 ### Hi there 👋
 
-<!--
-**1Rashoodi1/1Rashoodi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rashid** — i build websites and web apps at [rashid.works](https://rashid.works).
 
-Here are some ideas to get you started:
+- 🔭 currently working on [football-predictions](https://github.com/Rashoooodi/football-predictions) — a full-stack world cup predictions platform (Next.js, TypeScript, SQLite)
+- 🛠️ running [rashid.works](https://rashid.works) — web dev, design, hosting
+- 🌱 grinding full-stack dev — Next.js, React, TypeScript, Tailwind, Python
+- 📫 reach me at [github@rashid.works](mailto:github@rashid.works)
+- 🇧🇭 based in Bahrain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am
-
-- 🔭 I’m currently working on a python script that can turn bank statement PDF's to csv's for apps like Bluecoins and Cashew
-- 🌱 I’m currently learning Python, JS, HTML and CSS
-- 👯 I’m looking to collaborate on linux on mac projects and so much more
-- 🤔 I’m looking for help with studying
-- 💬 Ask me about anything
-- 📫 How to reach me: github@rashid.works
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am living in Bahrain
+**tech i actually use:**  
+`Next.js` `React` `TypeScript` `Tailwind` `SQLite` `Python` `Node.js` `Docker` `nginx` `caddy`
