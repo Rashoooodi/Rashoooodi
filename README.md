@@ -21,6 +21,6 @@ I am
 - 👯 I’m looking to collaborate on linux on mac projects and so much more
 - 🤔 I’m looking for help with studying
 - 💬 Ask me about anything
-- 📫 How to reach me: 002118@arks.edu.bh - This is my school email
+- 📫 How to reach me: github@rashid.works
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am living in Bahrain
