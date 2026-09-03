@@ -2,12 +2,12 @@
 
 I build practical web products, client websites, and the infrastructure that keeps them running.
 
-These days, I run [rashid.works](https://rashid.works), where I help turn ideas into polished, deployable web experiences — from the first screen to production hosting.
+These days, I run [worldcuppredicts.world](https://worldcuppredicts.world), where I help turn ideas into polished, deployable web experiences — from the first screen to production hosting.
 
 ## what i'm working on
 
 - ⚽ [**football-predictions**](https://github.com/Rashoooodi/football-predictions) — a full-stack football predictions platform built with Next.js, TypeScript, SQLite, Tailwind, passwordless authentication, a points system, and PWA support.
-- 🌐 [**rashid.works**](https://rashid.works) — web development, design, hosting, and custom deployment for projects that need to actually ship.
+- 🌐 [**worldcuppredicts.world**](https://worldcuppredicts.world) — web development, design, hosting, and custom deployment for projects that need to actually ship.
 
 ## tools i use
 
@@ -17,4 +17,4 @@ These days, I run [rashid.works](https://rashid.works), where I help turn ideas 
 
 I like building useful things without overcomplicating them — clean interfaces, sensible systems, and products that work in the real world.
 
-📫 [get in touch](mailto:github@worldcuppredicts.world) · [rashid.works](https://rashid.works)
+📫 [get in touch](mailto:github@worldcuppredicts.world) · [worldcuppredicts.world](https://worldcuppredicts.world)
