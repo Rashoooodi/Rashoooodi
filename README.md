@@ -1,12 +1,20 @@
-### Hi there 👋
+# hey, i'm rashid 👋
 
-I'm **Rashid** — i build websites and web apps at [rashid.works](https://rashid.works).
+I build practical web products, client websites, and the infrastructure that keeps them running.
 
-- 🔭 currently working on [football-predictions](https://github.com/Rashoooodi/football-predictions) — a full-stack world cup predictions platform (Next.js, TypeScript, SQLite)
-- 🛠️ running [rashid.works](https://rashid.works) — web dev, design, hosting
-- 🌱 grinding full-stack dev — Next.js, React, TypeScript, Tailwind, Python
-- 📫 reach me at [github@rashid.works](mailto:github@rashid.works)
-- 🇧🇭 based in Bahrain
+These days, I run [rashid.works](https://rashid.works), where I help turn ideas into polished, deployable web experiences — from the first screen to production hosting.
 
-**tech i actually use:**  
-`Next.js` `React` `TypeScript` `Tailwind` `SQLite` `Python` `Node.js` `Docker` `nginx` `caddy`
+## what i'm working on
+
+- ⚽ [**football-predictions**](https://github.com/Rashoooodi/football-predictions) — a full-stack football predictions platform built with Next.js, TypeScript, SQLite, Tailwind, passwordless authentication, a points system, and PWA support.
+- 🌐 [**rashid.works**](https://rashid.works) — web development, design, hosting, and custom deployment for projects that need to actually ship.
+
+## tools i use
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Python` · `Node.js` · `SQLite` · `Docker` · `Caddy` · `Cloudflare`
+
+## a bit more
+
+I like building useful things without overcomplicating them — clean interfaces, sensible systems, and products that work in the real world.
+
+📫 [get in touch](mailto:support@rashid.works) · [rashid.works](https://rashid.works)
