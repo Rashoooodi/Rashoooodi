@@ -17,4 +17,4 @@ These days, I run [rashid.works](https://rashid.works), where I help turn ideas 
 
 I like building useful things without overcomplicating them — clean interfaces, sensible systems, and products that work in the real world.
 
-📫 [get in touch](mailto:support@rashid.works) · [rashid.works](https://rashid.works)
+📫 [get in touch](mailto:github@worldcuppredicts.world) · [rashid.works](https://rashid.works)
